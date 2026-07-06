@@ -1,0 +1,79 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - button "Dismiss" [ref=e7] [cursor=pointer]
+      - heading "Privacy Notice" [level=4] [ref=e8]
+      - paragraph [ref=e9]: This website uses cookies to improve your web experience. By using the site, you agree to the use of cookies.
+  - link "Insider One logo" [ref=e12] [cursor=pointer]:
+    - /url: https://jobs.lever.co/insiderone
+    - img "Insider One logo" [ref=e13]
+  - generic [ref=e17]:
+    - generic [ref=e18]:
+      - 'button "Filter by Location type: All" [ref=e19]':
+        - generic [ref=e20] [cursor=pointer]:
+          - text: Location type
+          - img [ref=e21]
+      - 'button "Filter by Location: All" [ref=e23]':
+        - generic [ref=e24] [cursor=pointer]:
+          - text: Location
+          - img [ref=e25]
+      - 'button "Filter by Team: Quality Assurance" [ref=e27]':
+        - generic [ref=e28] [cursor=pointer]:
+          - text: Quality Assurance
+          - img [ref=e29]
+      - 'button "Filter by Work type: All" [ref=e31]':
+        - generic [ref=e32] [cursor=pointer]:
+          - text: Work type
+          - img [ref=e33]
+    - generic [ref=e36]:
+      - generic [ref=e37]: Quality Assurance
+      - generic [ref=e39]:
+        - link "Apply" [ref=e41] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/d3abff37-c9c9-4733-9c59-bbd59fea4105
+        - link "Senior Software QA Engineer (Remote) Remote — Full-Time (Remote) Istanbul" [ref=e42] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/d3abff37-c9c9-4733-9c59-bbd59fea4105
+          - heading "Senior Software QA Engineer (Remote)" [level=5] [ref=e43]
+          - generic [ref=e44]:
+            - generic [ref=e45]: Remote —
+            - generic [ref=e46]: Full-Time (Remote)
+            - generic [ref=e47]: Istanbul
+      - generic [ref=e48]:
+        - link "Apply" [ref=e50] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/7af7b270-7de3-4da2-8f21-14f605b30a93
+        - link "Senior Software Quality Assurance Engineer (Remote) Remote — Full-Time (Remote) Istanbul" [ref=e51] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/7af7b270-7de3-4da2-8f21-14f605b30a93
+          - heading "Senior Software Quality Assurance Engineer (Remote)" [level=5] [ref=e52]
+          - generic [ref=e53]:
+            - generic [ref=e54]: Remote —
+            - generic [ref=e55]: Full-Time (Remote)
+            - generic [ref=e56]: Istanbul
+      - generic [ref=e57]:
+        - link "Apply" [ref=e59] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/6778b2f8-a110-4e9f-874f-bf66c8ea3b75
+        - link "Software QA Engineer - Europe (Turkish Speaker) Remote — Full-Time (Remote) Berlin, Germany / Munich / Amsterdam, Netherlands / London, United Kingdom" [ref=e60] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/6778b2f8-a110-4e9f-874f-bf66c8ea3b75
+          - heading "Software QA Engineer - Europe (Turkish Speaker)" [level=5] [ref=e61]
+          - generic [ref=e62]:
+            - generic [ref=e63]: Remote —
+            - generic [ref=e64]: Full-Time (Remote)
+            - generic [ref=e65]: Berlin, Germany / Munich / Amsterdam, Netherlands / London, United Kingdom
+      - generic [ref=e66]:
+        - link "Apply" [ref=e68] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/8e2f016b-d696-4c33-af8b-d139b7ac54f9
+        - link "Software Quality Assurance Engineer (Remote) Remote — Full-Time (Remote) Istanbul" [ref=e69] [cursor=pointer]:
+          - /url: https://jobs.lever.co/insiderone/8e2f016b-d696-4c33-af8b-d139b7ac54f9
+          - heading "Software Quality Assurance Engineer (Remote)" [level=5] [ref=e70]
+          - generic [ref=e71]:
+            - generic [ref=e72]: Remote —
+            - generic [ref=e73]: Full-Time (Remote)
+            - generic [ref=e74]: Istanbul
+  - generic [ref=e76]:
+    - paragraph [ref=e77]:
+      - link "Insider One Home Page" [ref=e78] [cursor=pointer]:
+        - /url: http://insiderone.com/
+    - paragraph [ref=e80]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e81] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e82]: Jobs powered by
+      - img "Lever logo" [ref=e83]

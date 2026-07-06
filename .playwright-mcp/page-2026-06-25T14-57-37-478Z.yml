@@ -1,0 +1,1124 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - navigation [ref=e6]:
+        - link "Partners Partners" [ref=e7] [cursor=pointer]:
+          - /url: /partners
+        - link "Insider One Academy Insider One Academy" [ref=e8] [cursor=pointer]:
+          - /url: https://academy.useinsider.com/?__hstc=226334277.bf868188662051499a93026e6eef5f92.1782399419127.1782399419127.1782399419127.1&__hssc=226334277.1.1782399419127&__hsfp=bda352785940666ca26c69f0f4193882
+        - link "Help Center Help Center" [ref=e9] [cursor=pointer]:
+          - /url: https://useinsiderhelp.zendesk.com/hc/en-us
+        - link "Contact Us Contact Us" [ref=e10] [cursor=pointer]:
+          - /url: /contact-us
+      - generic [ref=e11]:
+        - link "Login" [ref=e12] [cursor=pointer]:
+          - /url: https://inone.useinsider.com/login?__hstc=226334277.bf868188662051499a93026e6eef5f92.1782399419127.1782399419127.1782399419127.1&__hssc=226334277.1.1782399419127&__hsfp=bda352785940666ca26c69f0f4193882
+        - generic [ref=e13]:
+          - button "English" [ref=e14] [cursor=pointer]:
+            - img [ref=e16]
+            - generic [ref=e19]: English
+            - img [ref=e21]
+          - generic:
+            - link "English":
+              - /url: https://insiderone.com/careers/
+            - link "Français":
+              - /url: https://insiderone.com/fr/careers/
+            - link "Español":
+              - /url: https://insiderone.com/es/careers/
+            - link "Português":
+              - /url: https://insiderone.com/pt/careers/
+            - link "한국어":
+              - /url: https://insiderone.com/ko/careers/
+            - link "繁體中文":
+              - /url: https://insiderone.com/zh-hant/careers/
+    - generic [ref=e24]:
+      - link [ref=e26] [cursor=pointer]:
+        - /url: https://insiderone.com
+        - img [ref=e28]
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - text: Home
+          - generic [ref=e42]:
+            - button "Platform Platform" [ref=e43] [cursor=pointer]:
+              - text: Platform
+              - img [ref=e45]
+              - text: Platform
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "OVERVIEW" [level=3]
+                    - list:
+                      - listitem:
+                        - link "Platform Overview Platform Overview Explore Insider One, everything you need, nothing you don’t, all in one place Explore Insider One, everything you need, nothing you don’t, all in one place":
+                          - /url: /platform/
+                          - generic:
+                            - generic:
+                              - img
+                              - img
+                            - text: Platform Overview Platform Overview
+                          - paragraph: Explore Insider One, everything you need, nothing you don’t, all in one place Explore Insider One, everything you need, nothing you don’t, all in one place
+                  - generic:
+                    - generic:
+                      - heading "100+ INTEGRATIONS" [level=3]
+                    - list:
+                      - listitem:
+                        - link "Integration Hub Integration Hub Connect Insider One with your entire MarTech stack, effortlessly, securely, instantly Connect Insider One with your entire MarTech stack, effortlessly, securely, instantly":
+                          - /url: /integrations/
+                          - generic:
+                            - generic:
+                              - img
+                              - img
+                            - text: Integration Hub Integration Hub
+                          - paragraph: Connect Insider One with your entire MarTech stack, effortlessly, securely, instantly Connect Insider One with your entire MarTech stack, effortlessly, securely, instantly
+                - generic:
+                  - generic:
+                    - heading "CAPABILITIES" [level=3]
+                  - list:
+                    - listitem:
+                      - link "Insider One AI™ Insider One AI™":
+                        - /url: /ai-overview/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Insider One AI™ Insider One AI™
+                    - listitem:
+                      - link "Customer Data Management Customer Data Management":
+                        - /url: /customer-data-management/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Customer Data Management Customer Data Management
+                    - listitem:
+                      - link "Personalization Personalization":
+                        - /url: /ai-personalization/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Personalization Personalization
+                    - listitem:
+                      - link "Journey Orchestration Journey Orchestration":
+                        - /url: /customer-journey/orchestration/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Journey Orchestration Journey Orchestration
+                    - listitem:
+                      - link "Reporting & Data Reporting & Data":
+                        - /url: /reporting-analytics/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Reporting & Data Reporting & Data
+                    - listitem:
+                      - link "Behavioral Analytics Behavioral Analytics":
+                        - /url: /behavioral-analytics/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Behavioral Analytics Behavioral Analytics
+                - generic:
+                  - generic:
+                    - heading "CHANNELS" [level=3]
+                  - list:
+                    - listitem:
+                      - link "Web Web":
+                        - /url: /channels/web/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Web Web
+                    - listitem:
+                      - link "Email Email":
+                        - /url: /channels/email/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Email Email
+                    - listitem:
+                      - link "Site Search Site Search":
+                        - /url: /eureka-search/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Site Search Site Search
+                    - listitem:
+                      - link "Conversational CX Conversational CX":
+                        - /url: /conversational-cx/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Conversational CX Conversational CX
+                    - listitem:
+                      - link "WhatsApp WhatsApp":
+                        - /url: /channels/whatsapp/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: WhatsApp WhatsApp
+                    - listitem:
+                      - link "Web Push Web Push":
+                        - /url: /channels/web-push/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Web Push Web Push
+                    - listitem:
+                      - link "InStory InStory":
+                        - /url: /instory-product-discovery-solution/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: InStory InStory
+                    - listitem:
+                      - link "App App":
+                        - /url: /channels/app/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: App App
+                    - listitem:
+                      - link "SMS & RCS SMS & RCS":
+                        - /url: /channels/sms/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: SMS & RCS SMS & RCS
+                - generic:
+                  - generic:
+                    - heading "WHY INSIDER ONE" [level=3]
+                  - list:
+                    - listitem:
+                      - link "Join the $0 Migration Movement™ Join the $0 Migration Movement™ Migration without fear, lock‑in, or hidden costs. Migration without fear, lock‑in, or hidden costs.":
+                        - /url: https://insiderone.com/the-zero-dollar-migration-movement/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Join the $0 Migration Movement™ Join the $0 Migration Movement™
+                        - paragraph: Migration without fear, lock‑in, or hidden costs. Migration without fear, lock‑in, or hidden costs.
+                    - listitem:
+                      - link "The Insider One Difference The Insider One Difference Discover what makes us different Discover what makes us different":
+                        - /url: /why-insiderone/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: The Insider One Difference The Insider One Difference
+                        - paragraph: Discover what makes us different Discover what makes us different
+                    - listitem:
+                      - link "Compare Vendors Compare Vendors Find out how we compare to other industry players Find out how we compare to other industry players":
+                        - /url: /compare-insiderone/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Compare Vendors Compare Vendors
+                        - paragraph: Find out how we compare to other industry players Find out how we compare to other industry players
+                    - listitem:
+                      - link "Switch to Insider One Switch to Insider One Discover why world’s best-loved brands choose Insider One Discover why world’s best-loved brands choose Insider One":
+                        - /url: /insiderone-switch/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Switch to Insider One Switch to Insider One
+                        - paragraph: Discover why world’s best-loved brands choose Insider One Discover why world’s best-loved brands choose Insider One
+          - generic [ref=e47]:
+            - button "Industries Industries" [ref=e48] [cursor=pointer]:
+              - text: Industries
+              - img [ref=e50]
+              - text: Industries
+            - generic:
+              - generic:
+                - link "Success Story":
+                  - /url: /case-studies/mac-cosmetics/
+                  - list:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Success Story
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Retail & Ecommerce Retail & Ecommerce From first click to repeat purchase, create experiences your customers will love From first click to repeat purchase, create experiences your customers will love":
+                        - /url: /industries/retail/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Retail & Ecommerce Retail & Ecommerce
+                        - paragraph: From first click to repeat purchase, create experiences your customers will love From first click to repeat purchase, create experiences your customers will love
+                    - listitem:
+                      - link "Financial Services Financial Services Build trust and loyalty with personalized experiences that increase engagement and retention Build trust and loyalty with personalized experiences that increase engagement and retention":
+                        - /url: /industries/finance/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Financial Services Financial Services
+                        - paragraph: Build trust and loyalty with personalized experiences that increase engagement and retention Build trust and loyalty with personalized experiences that increase engagement and retention
+                    - listitem:
+                      - link "Travel & Hospitality Travel & Hospitality Inspire travelers, personalize the journey, boost bookings, and drive ancillary revenue Inspire travelers, personalize the journey, boost bookings, and drive ancillary revenue":
+                        - /url: /industries/travel/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Travel & Hospitality Travel & Hospitality
+                        - paragraph: Inspire travelers, personalize the journey, boost bookings, and drive ancillary revenue Inspire travelers, personalize the journey, boost bookings, and drive ancillary revenue
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Beauty & Cosmetics Beauty & Cosmetics From skincare to self-care, engage customers with personalization, precision and style From skincare to self-care, engage customers with personalization, precision and style":
+                        - /url: /beauty-cosmetics/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Beauty & Cosmetics Beauty & Cosmetics
+                        - paragraph: From skincare to self-care, engage customers with personalization, precision and style From skincare to self-care, engage customers with personalization, precision and style
+                    - listitem:
+                      - link "Automotive Automotive Connect the digital and showroom experience to accelerate engagement, leads, and retention Connect the digital and showroom experience to accelerate engagement, leads, and retention":
+                        - /url: /industries/automotive/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Automotive Automotive
+                        - paragraph: Connect the digital and showroom experience to accelerate engagement, leads, and retention Connect the digital and showroom experience to accelerate engagement, leads, and retention
+                    - listitem:
+                      - link "Telecommunications Telecommunications Reduce churn, boost loyalty, and personalize for every customer Reduce churn, boost loyalty, and personalize for every customer":
+                        - /url: /industries/telecom/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Telecommunications Telecommunications
+                        - paragraph: Reduce churn, boost loyalty, and personalize for every customer Reduce churn, boost loyalty, and personalize for every customer
+          - link "Customers Customers" [ref=e53] [cursor=pointer]:
+            - /url: /customers/
+          - generic [ref=e54]:
+            - button "Resources Resources" [ref=e55] [cursor=pointer]:
+              - text: Resources
+              - img [ref=e57]
+              - text: Resources
+            - generic:
+              - generic:
+                - link "Total Economic Impact™ Study Total Economic Impact™ Study Explore the ROI and business impact of Insider One Explore the ROI and business impact of Insider One":
+                  - /url: https://insiderone.com/forrester-tei-insider-one-roi-impact/
+                  - list:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Total Economic Impact™ Study Total Economic Impact™ Study
+                        - paragraph: Explore the ROI and business impact of Insider One Explore the ROI and business impact of Insider One
+                - generic:
+                  - generic:
+                    - heading "INTERACTIVE TOOLS" [level=3]
+                  - list:
+                    - text: Product Demo Hub Explore Insider One and become unstoppable. Take a self-guided tour of 80+ demos and use cases tailored to your role, goals, or industry. No forms. No delay
+                    - listitem:
+                      - link "WhatsApp Explorer WhatsApp Explorer Discover the power of WhatsApp for business Discover the power of WhatsApp for business":
+                        - /url: /whatsapp-templates/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: WhatsApp Explorer WhatsApp Explorer
+                        - paragraph: Discover the power of WhatsApp for business Discover the power of WhatsApp for business
+                    - listitem:
+                      - link "SMS Template Library SMS Template Library 60+ templates for seamless SMS marketing 60+ templates for seamless SMS marketing":
+                        - /url: /sms-templates/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: SMS Template Library SMS Template Library
+                        - paragraph: 60+ templates for seamless SMS marketing 60+ templates for seamless SMS marketing
+                    - listitem:
+                      - link "CDP Explorer CDP Explorer Learn how to put your customer data into action Learn how to put your customer data into action":
+                        - /url: /cdp-use-cases-explorer/
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: CDP Explorer CDP Explorer
+                        - paragraph: Learn how to put your customer data into action Learn how to put your customer data into action
+                - generic:
+                  - generic:
+                    - heading "OTHER RESOURCES" [level=3]
+                  - list:
+                    - listitem:
+                      - link "Case Studies Case Studies":
+                        - /url: /case-studies
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Case Studies Case Studies
+                    - listitem:
+                      - link "Blog Blog":
+                        - /url: /blog
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Blog Blog
+                    - listitem:
+                      - link "E-Books & Guides E-Books & Guides":
+                        - /url: /ebook
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: E-Books & Guides E-Books & Guides
+                    - listitem:
+                      - link "Glossary Glossary":
+                        - /url: /glossary
+                        - generic:
+                          - generic:
+                            - img
+                            - img
+                          - text: Glossary Glossary
+          - text: Glossary Glossary Glossary Glossary
+        - generic [ref=e59]:
+          - link "Platform Tour" [ref=e60] [cursor=pointer]:
+            - /url: /product-demo-hub/
+          - link "Get a demo" [ref=e61] [cursor=pointer]:
+            - /url: /request-a-demo/
+            - text: Get a demo
+            - img [ref=e63]
+    - generic:
+      - generic:
+        - link "Total Economic Impact™ of Insider One • 449% ROI • $10.2M revenue":
+          - /url: https://insiderone.com/forrester-tei-insider-one-roi-impact/
+          - text: Total Economic Impact™ of Insider One • 449% ROI • $10.2M revenue
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic:
+              - img
+  - generic [ref=e67]:
+    - generic [ref=e72]:
+      - generic [ref=e74]:
+        - heading "Ready to disrupt?" [level=1] [ref=e75]
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: Join a global community of builders
+          - paragraph [ref=e78]: and create your life’s work
+        - link "Explore open roles" [ref=e80] [cursor=pointer]:
+          - /url: "#open-roles"
+          - generic [ref=e81]: Explore open roles
+          - img [ref=e82]
+      - img "Ready to disrupt?" [ref=e93]
+    - generic [ref=e94]:
+      - generic [ref=e99]:
+        - img "Only the bold belong" [ref=e101]
+        - generic [ref=e103]:
+          - paragraph
+          - heading "Only the bold belong" [level=2] [ref=e104]
+          - generic [ref=e105]:
+            - paragraph [ref=e106]: We are builders at heart. We move fast. We shape categories. We refuse to settle. We challenge every assumption. We move with intention and speed. We move fast in an endless pursuit of building the future of customer engagement and AITech.
+            - paragraph [ref=e107]: Working here demands resilience and hunger. Growth is not a perk; it is the baseline. If you prefer comfort, predictability, or proven playbooks, we are not for you.
+            - paragraph [ref=e108]: If you think you’re made for this, prove it.
+          - link "Explore open roles" [ref=e110] [cursor=pointer]:
+            - /url: "#open-roles"
+            - generic [ref=e111]: Explore open roles
+            - img [ref=e112]
+      - generic [ref=e120]:
+        - heading "Our Story" [level=2] [ref=e121]
+        - generic [ref=e122]:
+          - paragraph
+          - paragraph [ref=e123]: "Insider One began with a clear mission: How to make marketing and customer engagement teams unstoppable?"
+          - paragraph [ref=e124]: From six founders and six desks, in a small home office, Insider One is now a global team of 1,500+ teammates representing over 50+ nationalities across 30+ cities. Today, Insider One is the most progressive community in technology.
+          - paragraph
+    - generic [ref=e125]:
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - heading "Life at Insider One" [level=2] [ref=e133]
+            - paragraph [ref=e135]: For those who expect the unexpected. Are you ready to play bigger?
+          - generic [ref=e136]:
+            - button "Previous slide" [disabled]
+            - button "Next slide" [ref=e137] [cursor=pointer]
+        - generic [ref=e139]:
+          - group "1 / 14" [ref=e140]
+          - group "2 / 14" [ref=e143]
+          - group "3 / 14" [ref=e146]
+          - group "4 / 14" [ref=e149]
+          - group "5 / 14" [ref=e152]
+          - group "6 / 14" [ref=e155]
+          - group "7 / 14" [ref=e158]
+          - group "8 / 14" [ref=e161]
+          - group "9 / 14" [ref=e164]
+          - group "10 / 14" [ref=e167]
+          - group "11 / 14" [ref=e170]
+          - group "12 / 14" [ref=e173]
+          - group "13 / 14" [ref=e176]
+          - group "14 / 14" [ref=e179]
+      - generic [ref=e189]:
+        - paragraph
+        - heading [level=2]
+        - generic [ref=e190]:
+          - paragraph [ref=e191]:
+            - generic [ref=e192]: “We started Insider One to show the world that breakthrough product companies can come from anywhere. We have a ‘zero optionality’ mindset; we work harder, longer, and more consistently than any other player in our space. This shared mindset is an unwritten strategy that fosters true ownership, creativity, efficiency, and productivity.”
+          - paragraph [ref=e193]
+          - paragraph [ref=e194]:
+            - strong [ref=e195]: Hande Cilingir
+          - paragraph [ref=e196]: Co-Founder and CEO at Insider One
+      - generic [ref=e200]:
+        - heading "Explore open roles" [level=2] [ref=e202]
+        - paragraph [ref=e204]: Discover our teams, making the world’s marketing and customer engagement teams unstoppable
+        - generic [ref=e205]:
+          - generic [ref=e207]:
+            - heading "Customer Education" [level=3] [ref=e209]
+            - paragraph [ref=e211]: We believe that knowledge is power. Our Customer Education team creates impactful learning experiences, enabling customers to master our platform and achieve their goals with ease.
+            - link "0 Open Positions" [ref=e212] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone
+          - generic [ref=e214]:
+            - heading "Sales" [level=3] [ref=e216]
+            - paragraph [ref=e218]: We don’t take no for an answer. Our sales team builds strong relationships and ensures our customers get exactly what they need in a fast-paced, competitive environment.
+            - link "62 Open Positions" [ref=e848] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone?team=Sales
+          - generic [ref=e221]:
+            - heading "Finance & Business Support" [level=3] [ref=e223]
+            - paragraph [ref=e225]: Go beyond calculations. Showcase Insider One’s performance across the globe and play a pivotal role in shaping the decisions that move us forward.
+            - link "11 Open Positions" [ref=e849] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone?team=Finance%20%26%20Business%20Support
+          - generic [ref=e228]:
+            - heading "People and Culture" [level=3] [ref=e230]
+            - paragraph [ref=e232]: We're not just HR. We drive culture. Our mission is to bring in the best talent, united by a shared purpose, to build a community of change-makers who embody our values and help shape the future of our organization.
+            - link "7 Open Positions" [ref=e850] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone?team=Human%20Resources
+          - generic [ref=e235]:
+            - heading "Marketing" [level=3] [ref=e237]
+            - paragraph [ref=e239]: We are the creators, the thinkers, and the doers who bring Insider One’s vision to life. We craft experiences, tell compelling stories, and design campaigns that inspire action, amplify our voice, and fuel growth for the brand globally.
+            - link "7 Open Positions" [ref=e851] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone?team=Marketing%20and%20Communications
+          - generic [ref=e242]:
+            - heading "Software Development" [level=3] [ref=e244]
+            - paragraph [ref=e246]: The Software Development team is where ideas transform into powerful technology. We design, build, and maintain the systems that drive the success of our platform and fuel our customers’ growth.
+            - link "20 Open Positions" [ref=e852] [cursor=pointer]:
+              - /url: https://jobs.lever.co/insiderone?team=Software%20Development
+          - generic [ref=e853]:
+            - generic [ref=e855]:
+              - heading "Purchasing & Operations" [level=3] [ref=e857]
+              - paragraph [ref=e859]: Excellence is a habit. As the guardians of happiness, our Operations team is always looking for ways to make our lives at Insider One better.
+              - link "1 Open Position" [ref=e860] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone?team=Operations
+            - generic [ref=e862]:
+              - heading "Product Management" [level=3] [ref=e864]
+              - paragraph [ref=e866]: Our product teams at Insider One are committed to building flexible, AI-driven solutions that empower brands to stay ahead, adapt quickly, and scale continuously for long-term success.
+              - link "5 Open Positions" [ref=e867] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone?team=Product%20Management
+            - generic [ref=e869]:
+              - heading "Quality Assurance" [level=3] [ref=e871]
+              - paragraph [ref=e873]: Obsessed with perfection? So are we. Our Q&A team meticulously tests every detail to ensure our products are flawless, delivering nothing less than excellence for our customers and theirs.
+              - link "4 Open Positions" [ref=e874] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone?team=Quality%20Assurance
+            - generic [ref=e876]:
+              - heading "Customer Success" [level=3] [ref=e878]
+              - paragraph [ref=e880]: Support the journey of iconic brands, guiding them toward lasting success and unlocking new growth opportunities.
+              - link "32 Open Positions" [ref=e881] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone?team=Customer%20Success
+            - generic [ref=e883]:
+              - heading "Sales Operations" [level=3] [ref=e885]
+              - paragraph [ref=e887]: At the heart of every sales strategy, our Sales Operations team ensures that everything runs smoothly. From optimizing systems to refining processes, we enable our sales team to focus on what they do best—closing deals.
+              - link "1 Open Position" [ref=e888] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone?team=Sales%20Operations
+            - generic [ref=e890]:
+              - heading "Business Intelligence" [level=3] [ref=e892]
+              - paragraph [ref=e894]: Deep thinkers. Dashboard commanders. Our Business Intelligence team dives deep into data to spot patterns and uncover opportunities to improve the way we tell stories.
+              - link "0 Open Positions" [ref=e895] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone
+            - generic [ref=e897]:
+              - heading "Product Design" [level=3] [ref=e899]
+              - paragraph [ref=e901]: Are you a creative problem-solver with a passion for customer experience? Our Product Design team is all about innovation, focused on shaping what’s next rather than being limited by what’s come before.
+              - link "0 Open Positions" [ref=e902] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone
+            - generic [ref=e904]:
+              - heading "CEO’s Executive Office" [level=3] [ref=e906]
+              - paragraph [ref=e908]: Bold strategies, visionary goals, and executive-level discussions. If you thrive in an ever-changing environment, the CEO’s office offers endless opportunities for growth.
+              - link "0 Open Positions" [ref=e909] [cursor=pointer]:
+                - /url: https://jobs.lever.co/insiderone
+        - link "See Less" [expanded] [active] [ref=e910] [cursor=pointer]:
+          - /url: javascript:void(0);
+    - generic [ref=e254]:
+      - generic [ref=e255]:
+        - generic [ref=e256]:
+          - heading "Our locations" [level=2] [ref=e258]
+          - paragraph [ref=e260]: Explore our 30+ offices across the world, home to 1,500+ Insiders
+        - generic [ref=e261]:
+          - button "Previous slide" [disabled]
+          - button "Next slide" [ref=e262] [cursor=pointer]
+      - generic [ref=e264]:
+        - group "1 / 30" [ref=e265]:
+          - generic [ref=e268]:
+            - heading "New York" [level=3] [ref=e269]
+            - generic [ref=e270]:
+              - paragraph [ref=e272]: Insider, 135 Madison Ave, New York, NY, 10016, United States
+              - link "usteam@useinsider.com" [ref=e274] [cursor=pointer]:
+                - /url: mailto:usteam@useinsider.com
+            - link "Get Direction" [ref=e275] [cursor=pointer]:
+              - /url: https://goo.gl/maps/fFwzUobagzcyeNZeA
+              - text: Get Direction
+              - img [ref=e276]
+        - group "2 / 30" [ref=e279]:
+          - generic [ref=e282]:
+            - heading "San Francisco" [level=3] [ref=e283]
+            - generic [ref=e284]:
+              - paragraph [ref=e286]: Insider, 3rd St, San Francisco, CA 94158, United States
+              - link "usteam@useinsider.com" [ref=e288] [cursor=pointer]:
+                - /url: mailto:usteam@useinsider.com
+            - link "Get Direction" [ref=e289] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/xtVZD9wQ83AJCywx9
+              - text: Get Direction
+              - img [ref=e290]
+        - group "3 / 30" [ref=e293]:
+          - generic [ref=e296]:
+            - heading "Toronto" [level=3] [ref=e297]
+            - generic [ref=e298]:
+              - paragraph [ref=e300]: 40 King St W 41st Floor, Toronto, ON M5H 3Y2, Canada
+              - generic [ref=e301]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e302] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/RGNMwDaQF17YjGDv6
+              - text: Get Direction
+              - img [ref=e303]
+        - group "4 / 30" [ref=e306]:
+          - generic [ref=e309]:
+            - heading "São Paulo" [level=3] [ref=e310]
+            - generic [ref=e311]:
+              - paragraph [ref=e313]: Rua Dr. Rubens Gomes Bueno nº 691, esquina com a Avenida das Nações Unidas e Rua Acari, no 29º Subdistrito – Santo Amaro, São Paulo – SP Brazil
+              - link "brazilteam@useinsider.com" [ref=e315] [cursor=pointer]:
+                - /url: mailto:brazilteam@useinsider.com
+            - link "Get Direction" [ref=e316] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/cNXkguZkGNVczckCA
+              - text: Get Direction
+              - img [ref=e317]
+        - group "5 / 30" [ref=e320]:
+          - generic [ref=e323]:
+            - heading "London" [level=3] [ref=e324]
+            - generic [ref=e325]:
+              - paragraph [ref=e327]: Work.Life Fitzrovia Limited, 33 Foley Street, London, W1W 7TL, United Kingdom.
+              - link "uk@useinsider.com" [ref=e329] [cursor=pointer]:
+                - /url: mailto:uk@useinsider.com
+            - link "Get Direction" [ref=e330] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/AUwxeofUmLqVWEbz7
+              - text: Get Direction
+              - img [ref=e331]
+        - group "6 / 30" [ref=e334]:
+          - generic [ref=e337]:
+            - heading "Paris" [level=3] [ref=e338]
+            - generic [ref=e339]:
+              - paragraph [ref=e341]: 61, Boulevard Haussmann, 75008, Third Floor, Paris, France
+              - link "franceteam@useinsider.com" [ref=e343] [cursor=pointer]:
+                - /url: mailto:franceteam@useinsider.com
+            - link "Get Direction" [ref=e344] [cursor=pointer]:
+              - /url: https://goo.gl/maps/r7LZ83aKEFzpUr6w7
+              - text: Get Direction
+              - img [ref=e345]
+        - group "7 / 30" [ref=e348]:
+          - generic [ref=e351]:
+            - heading "Berlin" [level=3] [ref=e352]
+            - generic [ref=e353]:
+              - paragraph [ref=e355]: Französische Str., 10117 Berlin, Germany
+              - generic [ref=e356]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e357] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/yqUNtrybxgSepKUSA
+              - text: Get Direction
+              - img [ref=e358]
+        - group "8 / 30" [ref=e361]:
+          - generic [ref=e364]:
+            - heading "Madrid" [level=3] [ref=e365]
+            - generic [ref=e366]:
+              - paragraph [ref=e368]: 28010 Madrid, Calle Caracas No:6, Spain
+              - generic [ref=e369]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e370] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/jrhQGUdhaXokTh199
+              - text: Get Direction
+              - img [ref=e371]
+        - group "9 / 30" [ref=e374]:
+          - generic [ref=e377]:
+            - heading "Amsterdam" [level=3] [ref=e378]
+            - generic [ref=e379]:
+              - paragraph [ref=e381]: Mr.Treublaan 7, 1097 AH Amsterdam, Netherlands
+              - generic [ref=e382]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e383] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/5DssUZ538eD6oWfp6
+              - text: Get Direction
+              - img [ref=e384]
+        - group "10 / 30" [ref=e387]:
+          - generic [ref=e390]:
+            - heading "Brussels" [level=3] [ref=e391]
+            - generic [ref=e392]:
+              - paragraph [ref=e394]: Rue Montoyers, 1000 Bruxelles, Belgium
+              - generic [ref=e395]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e396] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/yL8htFw58WNGEuy7A
+              - text: Get Direction
+              - img [ref=e397]
+        - group "11 / 30" [ref=e400]:
+          - generic [ref=e403]:
+            - heading "Warsaw" [level=3] [ref=e404]
+            - generic [ref=e405]:
+              - paragraph [ref=e407]: Prosta 20, 00-850 Warsaw, Województwo mazowieckie 00-850, Office No.04-111, Poland
+              - link "polandteam@useinsider.com" [ref=e409] [cursor=pointer]:
+                - /url: mailto:polandteam@useinsider.com
+            - link "Get Direction" [ref=e410] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/Y6CvLiUkjj84VNzX6
+              - text: Get Direction
+              - img [ref=e411]
+        - group "12 / 30" [ref=e414]:
+          - generic [ref=e417]:
+            - heading "Sydney" [level=3] [ref=e418]
+            - generic [ref=e419]:
+              - paragraph [ref=e421]: Wework 383 George St. Sydney NSW 2000, Australia
+              - link "australiateam@useinsider.com" [ref=e423] [cursor=pointer]:
+                - /url: mailto:australiateam@useinsider.com
+            - link "Get Direction" [ref=e424] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/TvwyEDooDJaTCf3N6
+              - text: Get Direction
+              - img [ref=e425]
+        - group "13 / 30" [ref=e428]:
+          - generic [ref=e431]:
+            - heading "Wellington" [level=3] [ref=e432]
+            - generic [ref=e433]:
+              - paragraph [ref=e435]: Insider, Manners Street, Te Aro, Wellington 6011, New Zealand
+              - generic [ref=e436]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e437] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/VmZoDMTuG6Bg2yzn9
+              - text: Get Direction
+              - img [ref=e438]
+        - group "14 / 30" [ref=e441]:
+          - generic [ref=e444]:
+            - heading "Dubai" [level=3] [ref=e445]
+            - generic [ref=e446]:
+              - paragraph [ref=e448]: "Unit No: 3405-14, The Dome Tower, Plot No: JLT-PH1-N1, Jumeirah Lakes Towers Dubai, UAE"
+              - link "mena@useinsider.com" [ref=e450] [cursor=pointer]:
+                - /url: mailto:mena@useinsider.com
+            - link "Get Direction" [ref=e451] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/TyHKmEy1PjNvPasY7
+              - text: Get Direction
+              - img [ref=e452]
+        - group "15 / 30" [ref=e455]:
+          - generic [ref=e458]:
+            - heading "Cape Town" [level=3] [ref=e459]
+            - generic [ref=e460]:
+              - paragraph [ref=e462]: Insider, Raapenberg Road, Golf Park, Mowbray, Cape Town, 7700, South Africa
+              - generic [ref=e463]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e464] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/xCqriaGhEe31BzfAA
+              - text: Get Direction
+              - img [ref=e465]
+        - group "16 / 30" [ref=e468]:
+          - generic [ref=e471]:
+            - heading "Tokyo" [level=3] [ref=e472]
+            - generic [ref=e473]:
+              - paragraph [ref=e475]: Shinagawa City, Tokyo 141-0021, Japan
+              - link "japanteam@useinsider.com" [ref=e477] [cursor=pointer]:
+                - /url: mailto:japanteam@useinsider.com
+            - link "Get Direction" [ref=e478] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/RpCxUkzpjWPbpez48
+              - text: Get Direction
+              - img [ref=e479]
+        - group "17 / 30" [ref=e482]:
+          - generic [ref=e485]:
+            - heading "Seoul" [level=3] [ref=e486]
+            - generic [ref=e487]:
+              - paragraph [ref=e489]: Seul, Jung-gu, Namdaemun-ro 7-gil 11-5, Chang Kang Building (Sogong-dong 65-1) Floor:8, South Korea
+              - link "koreateam@useinsider.com" [ref=e491] [cursor=pointer]:
+                - /url: mailto:koreateam@useinsider.com
+            - link "Get Direction" [ref=e492] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/7L4sTq7dLFFNN27e6
+              - text: Get Direction
+              - img [ref=e493]
+        - group "18 / 30" [ref=e496]:
+          - generic [ref=e499]:
+            - heading "Bangkok" [level=3] [ref=e500]
+            - generic [ref=e501]:
+              - paragraph [ref=e503]: No. 88 The Parq Building, Room No. 07-107, 7th Floor, Ratchadaphisek Road, Klongtoey Sub-district, Klongtoey District, Bangkok.
+              - link "thailandteam@useinsider.com" [ref=e505] [cursor=pointer]:
+                - /url: mailto:thailandteam@useinsider.com
+            - link "Get Direction" [ref=e506] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/gFCZHHpByUArQNiLA
+              - text: Get Direction
+              - img [ref=e507]
+        - group "19 / 30" [ref=e510]:
+          - generic [ref=e513]:
+            - heading "Jakarta" [level=3] [ref=e514]
+            - generic [ref=e515]:
+              - paragraph [ref=e517]: Wework Noble House Lt. 29-30 Noble House, Jl. DR. Ide Anak Agung Gde Agung KAV. E4.2 No. 02, RT. 005, RW. 002, Kuningan Timur, Setiabudi, Jakarta Selatan 12950, Indonesia
+              - link "indonesia@useinsider.com" [ref=e519] [cursor=pointer]:
+                - /url: mailto:indonesia@useinsider.com
+            - link "Get Direction" [ref=e520] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/gPqnekJfptsAENbj7
+              - text: Get Direction
+              - img [ref=e521]
+        - group "20 / 30" [ref=e524]:
+          - generic [ref=e527]:
+            - heading "Hong Kong" [level=3] [ref=e528]
+            - generic [ref=e529]:
+              - paragraph [ref=e531]: Cyberport, Cyberport Rd, Pok Fu Lam, Hong Kong
+              - generic [ref=e532]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e533] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/jvQW73FWPiAXvc3R8
+              - text: Get Direction
+              - img [ref=e534]
+        - group "21 / 30" [ref=e537]:
+          - generic [ref=e540]:
+            - heading "Taipei" [level=3] [ref=e541]
+            - generic [ref=e542]:
+              - paragraph [ref=e544]: 14F.-20F., No. 206, Sec. 1, Keelung Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)
+              - link "taiwan@useinsider.com" [ref=e546] [cursor=pointer]:
+                - /url: mailto:taiwan@useinsider.com
+            - link "Get Direction" [ref=e547] [cursor=pointer]:
+              - /url: https://share.google/MQZnXEHIHtom0xlRy
+              - text: Get Direction
+              - img [ref=e548]
+        - group "22 / 30" [ref=e551]:
+          - generic [ref=e554]:
+            - heading "Kuala Lumpur" [level=3] [ref=e555]
+            - generic [ref=e556]:
+              - paragraph [ref=e558]: Colony @ Eco City,Levels 16 - 20, Boutique Office 1,(Pillar 11), KL Eco City, Pantai Baru, Jalan Bangsar, Kuala Lumpur, 59200 Malaysia
+              - link "malaysiateam@useinsider.com" [ref=e560] [cursor=pointer]:
+                - /url: mailto:malaysiateam@useinsider.com
+            - link "Get Direction" [ref=e561] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/gFCZHHpByUArQNiLA
+              - text: Get Direction
+              - img [ref=e562]
+        - group "23 / 30" [ref=e565]:
+          - generic [ref=e568]:
+            - heading "Ho Chi Minh City" [level=3] [ref=e569]
+            - generic [ref=e570]:
+              - paragraph [ref=e572]: Building No. 105–107 Cô Giang, Cô Giang Ward, District 1, Ho Chi Minh City, Vietnam
+              - link "vietnamteam@useinsider.com" [ref=e574] [cursor=pointer]:
+                - /url: "mailto:vietnamteam@useinsider.com "
+            - link "Get Direction" [ref=e575] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/7WUVe4Py4qpuLJtE8
+              - text: Get Direction
+              - img [ref=e576]
+        - group "24 / 30" [ref=e579]:
+          - generic [ref=e582]:
+            - heading "Hanoi" [level=3] [ref=e583]
+            - generic [ref=e584]:
+              - paragraph [ref=e586]: Tiktak Coworking Space, Tầng 4 (4th Floor), Lancaster Luminaire Building, No. 1152 Đường Láng, Đống Đa District, Hanoi City, Vietnam
+              - link "vietnamteam@useinsider.com" [ref=e588] [cursor=pointer]:
+                - /url: "mailto:vietnamteam@useinsider.com "
+            - link "Get Direction" [ref=e589] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/q4ugstdVAipry5rT6
+              - text: Get Direction
+              - img [ref=e590]
+        - group "25 / 30" [ref=e593]:
+          - generic [ref=e596]:
+            - heading "New Delhi" [level=3] [ref=e597]
+            - generic [ref=e598]:
+              - paragraph [ref=e600]: Connaught Cir, Block L, Connaught Place, New Delhi, Delhi 110001, India
+              - generic [ref=e601]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e602] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/2y1x8SN4LaM9b5M5A
+              - text: Get Direction
+              - img [ref=e603]
+        - group "26 / 30" [ref=e606]:
+          - generic [ref=e609]:
+            - heading "Istanbul" [level=3] [ref=e610]
+            - generic [ref=e611]:
+              - paragraph [ref=e613]: Sultan Selim Mah. Libadiye Sok, No:3 Daire:1, Kağıthane, İstanbul, Türkiye, 34415
+              - link "turkey@useinsider.com" [ref=e615] [cursor=pointer]:
+                - /url: mailto:turkey@useinsider.com
+            - link "Get Direction" [ref=e616] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/VVzpXaEaLahm1KsH7
+              - text: Get Direction
+              - img [ref=e617]
+        - group "27 / 30" [ref=e620]:
+          - generic [ref=e623]:
+            - heading "Ankara" [level=3] [ref=e624]
+            - generic [ref=e625]:
+              - paragraph [ref=e627]: Mustafa Kemal Mah. Dumlupınar Buvarı No:280/G K2 / 7-9 Çankaya / Ankara Türkiye
+              - link "ankarateam@useinsider.com" [ref=e629] [cursor=pointer]:
+                - /url: mailto:ankarateam@useinsider.com
+            - link "Get Direction" [ref=e630] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/qtaxeLVH8JeZgpbC6
+              - text: Get Direction
+              - img [ref=e631]
+        - group "28 / 30" [ref=e634]:
+          - generic [ref=e637]:
+            - heading "Antalya" [level=3] [ref=e638]
+            - generic [ref=e639]:
+              - paragraph [ref=e641]: "AOSB 3. Kısım Mah. 40 Cad. Antalya OSB Teknopark Hizmet Binası No:4 Kat:2 / 206, Kat: 3 / 303 Döşemealtı - Antalya Türkiye"
+              - generic [ref=e642]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e643] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/Nj4kiYJvVBZFrNn38
+              - text: Get Direction
+              - img [ref=e644]
+        - group "29 / 30" [ref=e647]:
+          - generic [ref=e650]:
+            - heading "Mexico City" [level=3] [ref=e651]
+            - generic [ref=e652]:
+              - paragraph [ref=e654]: Blvd. Miguel de Cervantes Saavedra 301, Amp Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX, Mexico
+              - generic [ref=e655]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e656] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/jfPMfGkSWTkJS1pU9
+              - text: Get Direction
+              - img [ref=e657]
+        - group "30 / 30" [ref=e660]:
+          - generic [ref=e663]:
+            - heading "Bogota" [level=3] [ref=e664]
+            - generic [ref=e665]:
+              - paragraph [ref=e667]: Carrera 7#116-50 Bogota Colombia
+              - generic [ref=e668]:
+                - link:
+                  - /url: "mailto:"
+            - link "Get Direction" [ref=e669] [cursor=pointer]:
+              - /url: https://maps.app.goo.gl/5BKU1oGDfhewxCSh9
+              - text: Get Direction
+              - img [ref=e670]
+  - contentinfo [ref=e673]:
+    - generic [ref=e676]:
+      - generic [ref=e677]:
+        - generic [ref=e679]:
+          - link [ref=e680] [cursor=pointer]:
+            - /url: https://www.g2.com/products/insider/reviews?utm_source=rewards-badge
+          - link [ref=e681] [cursor=pointer]:
+            - /url: https://www.g2.com/products/insider/reviews?utm_source=rewards-badge
+          - link [ref=e682] [cursor=pointer]:
+            - /url: https://www.g2.com/products/insider/reviews?utm_source=rewards-badge
+          - link [ref=e683] [cursor=pointer]:
+            - /url: https://insiderone.com/iso-270012013-information-safety-management-system-certificate/
+          - link [ref=e684] [cursor=pointer]:
+            - /url: https://www.eprivacy.eu/fileadmin/Redakteur/PDF/Zertifikate/20230203_eps_certificate_Insider.pdf
+          - link [ref=e686] [cursor=pointer]:
+            - /url: https://cloudsecurityalliance.org/star/registry/insider-sg-pte-ltd
+          - link [ref=e687] [cursor=pointer]:
+            - /url: https://insiderone.com/soc-2-examination-for-insider-growth-management-platform/
+        - generic [ref=e689]:
+          - heading "Join our community of 200K marketing and customer engagement professionals." [level=3] [ref=e691]
+          - generic [ref=e694]:
+            - group [ref=e695]:
+              - textbox "Business Email*" [ref=e698]:
+                - /placeholder: Business Email
+              - combobox "Industry*" [ref=e703] [cursor=pointer]:
+                - textbox "Industry*" [ref=e704]
+            - button "Submit" [ref=e707] [cursor=pointer]
+          - paragraph [ref=e709]:
+            - text: Please note that we will treat your data with respect, for further details on this you can check our
+            - link "Privacy Policy" [ref=e710] [cursor=pointer]:
+              - /url: /privacy-policy/
+        - generic [ref=e712]:
+          - generic [ref=e713]:
+            - generic [ref=e714]:
+              - heading "PLATFORM" [level=3] [ref=e716]
+              - link "Platform Overview Platform Overview" [ref=e718] [cursor=pointer]:
+                - /url: /platform/
+            - generic [ref=e719]:
+              - heading "CAPABILITIES" [level=3] [ref=e721]
+              - generic [ref=e722]:
+                - link "Customer Data Management Customer Data Management" [ref=e723] [cursor=pointer]:
+                  - /url: /customer-data-management/
+                - link "Insider One AI Insider One AI" [ref=e724] [cursor=pointer]:
+                  - /url: /ai-overview/
+                - link "Personalization Personalization" [ref=e725] [cursor=pointer]:
+                  - /url: /ai-personalization/
+                - link "Journey Orchestration Journey Orchestration" [ref=e726] [cursor=pointer]:
+                  - /url: /customer-journey/orchestration/
+                - link "Reporting & Data Reporting & Data" [ref=e727] [cursor=pointer]:
+                  - /url: /reporting-analytics/
+                - link "Behavioral Analytics Behavioral Analytics" [ref=e728] [cursor=pointer]:
+                  - /url: /behavioral-analytics/
+          - generic [ref=e730]:
+            - heading "CHANNELS" [level=3] [ref=e732]
+            - generic [ref=e733]:
+              - link "Web Web" [ref=e734] [cursor=pointer]:
+                - /url: /channels/web/
+              - link "Email Email" [ref=e735] [cursor=pointer]:
+                - /url: /channels/email/
+              - link "Site Search Site Search" [ref=e736] [cursor=pointer]:
+                - /url: /eureka-search/
+              - link "Conversational CX Conversational CX" [ref=e737] [cursor=pointer]:
+                - /url: /conversational-cx/
+              - link "WhatsApp WhatsApp" [ref=e738] [cursor=pointer]:
+                - /url: /channels/whatsapp/
+              - link "Web Push Web Push" [ref=e739] [cursor=pointer]:
+                - /url: /channels/web-push/
+              - link "InStory InStory" [ref=e740] [cursor=pointer]:
+                - /url: /instory-product-discovery-solution/
+              - link "App App" [ref=e741] [cursor=pointer]:
+                - /url: /channels/app/
+              - link "SMS & RCS SMS & RCS" [ref=e742] [cursor=pointer]:
+                - /url: /channels/sms/
+          - generic [ref=e744]:
+            - heading "INDUSTRIES" [level=3] [ref=e746]
+            - generic [ref=e747]:
+              - link "Retail & Ecommerce Retail & Ecommerce" [ref=e748] [cursor=pointer]:
+                - /url: /industries/retail/
+              - link "Beauty & Cosmetics Beauty & Cosmetics" [ref=e749] [cursor=pointer]:
+                - /url: /beauty-cosmetics/
+              - link "Automotive Automotive" [ref=e750] [cursor=pointer]:
+                - /url: /industries/automotive/
+              - link "Financial Services Financial Services" [ref=e751] [cursor=pointer]:
+                - /url: /industries/finance/
+              - link "Travel & Hospitality Travel & Hospitality" [ref=e752] [cursor=pointer]:
+                - /url: /industries/travel/
+              - link "Telecommunications Telecommunications" [ref=e753] [cursor=pointer]:
+                - /url: /industries/telecom/
+          - generic [ref=e755]:
+            - heading "RESOURCES" [level=3] [ref=e757]
+            - generic [ref=e758]:
+              - link "Success Stories Success Stories" [ref=e759] [cursor=pointer]:
+                - /url: /case-studies
+              - link "Ebooks Ebooks" [ref=e760] [cursor=pointer]:
+                - /url: /ebook
+              - link "Glossary Glossary" [ref=e761] [cursor=pointer]:
+                - /url: /glossary
+              - link "Blog Blog" [ref=e762] [cursor=pointer]:
+                - /url: /blog
+              - link "Interactive Platform Tour Interactive Platform Tour" [ref=e763] [cursor=pointer]:
+                - /url: /product-demo-hub/
+              - link "WhatsApp Explorer WhatsApp Explorer" [ref=e764] [cursor=pointer]:
+                - /url: /whatsapp-templates/
+              - link "SMS Template Library SMS Template Library" [ref=e765] [cursor=pointer]:
+                - /url: /sms-templates/
+          - generic [ref=e767]:
+            - heading "COMPANY" [level=3] [ref=e769]
+            - generic [ref=e770]:
+              - link "About us About us" [ref=e771] [cursor=pointer]:
+                - /url: /about-us/
+              - link "Partners Partners" [ref=e772] [cursor=pointer]:
+                - /url: /partners/
+              - link "Newsroom Newsroom" [ref=e773] [cursor=pointer]:
+                - /url: /newsroom/
+              - link "Integrations Integrations" [ref=e774] [cursor=pointer]:
+                - /url: /integrations/
+              - link "Contact us Contact us" [ref=e775] [cursor=pointer]:
+                - /url: /contact-us/
+              - link "We're hiring We're hiring" [ref=e776] [cursor=pointer]:
+                - /url: /careers/
+          - generic [ref=e778]:
+            - heading "WHY INSIDER ONE" [level=3] [ref=e780]
+            - generic [ref=e781]:
+              - link "The Insider One Difference The Insider One Difference" [ref=e782] [cursor=pointer]:
+                - /url: /why-insiderone/
+              - link "Switch to Insider One Switch to Insider One" [ref=e783] [cursor=pointer]:
+                - /url: /insiderone-switch/
+              - link "Join the $0 Migration Movement™ Join the $0 Migration Movement™" [ref=e784] [cursor=pointer]:
+                - /url: https://insiderone.com/the-zero-dollar-migration-movement/
+              - link "Compare Vendors Compare Vendors" [ref=e785] [cursor=pointer]:
+                - /url: /compare-insiderone/
+              - link "Insider One vs Bloomreach Insider One vs Bloomreach" [ref=e786] [cursor=pointer]:
+                - /url: /compare-insiderone/#insiderone-vs-bloomreach
+              - link "Insider One vs Braze Insider One vs Braze" [ref=e787] [cursor=pointer]:
+                - /url: /compare-insiderone/#insiderone-vs-braze
+              - link "Insider One vs Salesforce Insider One vs Salesforce" [ref=e788] [cursor=pointer]:
+                - /url: /compare-insiderone/#insiderone-vs-salesforce
+              - link "Insider One vs Moengage Insider One vs Moengage" [ref=e789] [cursor=pointer]:
+                - /url: /compare-insiderone/#insiderone-vs-moengage
+        - generic [ref=e793]:
+          - heading "ESSENTIAL GUIDES" [level=3] [ref=e795]
+          - generic [ref=e796]:
+            - link "Enterprise CDP Enterprise CDP" [ref=e797] [cursor=pointer]:
+              - /url: /enterprise-cdp/
+            - link "Best Ecommerce Personalization Software Best Ecommerce Personalization Software" [ref=e798] [cursor=pointer]:
+              - /url: /ecommerce-personalization-software/
+            - link "Journey Orchestration Platforms Journey Orchestration Platforms" [ref=e799] [cursor=pointer]:
+              - /url: /journey-orchestration-platforms/
+            - link "Best Customer Data Platform Best Customer Data Platform" [ref=e800] [cursor=pointer]:
+              - /url: /best-customer-data-platform/
+            - link "Marketing Automation Platforms Marketing Automation Platforms" [ref=e801] [cursor=pointer]:
+              - /url: /marketing-automation-platforms/
+            - link "Best Email Marketing Software Best Email Marketing Software" [ref=e802] [cursor=pointer]:
+              - /url: /best-email-marketing-software/
+            - link "Customer Data Integration Customer Data Integration" [ref=e803] [cursor=pointer]:
+              - /url: /customer-data-integration/
+            - link "Cross-Channel Marketing Cross-Channel Marketing" [ref=e804] [cursor=pointer]:
+              - /url: /cross-channel-marketing/
+            - link "Customer Engagement Platform Customer Engagement Platform" [ref=e805] [cursor=pointer]:
+              - /url: /customer-engagement-platforms/
+            - link "Whatsapp Marketing Software Whatsapp Marketing Software" [ref=e806] [cursor=pointer]:
+              - /url: /whatsapp-marketing-software/
+        - link [ref=e809] [cursor=pointer]:
+          - /url: https://insiderone.com
+        - generic [ref=e811]:
+          - paragraph [ref=e813]: © 2026 Insider One. All rights reserved.
+          - generic [ref=e814]:
+            - link [ref=e815] [cursor=pointer]:
+              - /url: https://www.facebook.com/insideronehq/
+            - link [ref=e816] [cursor=pointer]:
+              - /url: https://x.com/insideronehq
+            - link [ref=e817] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/insiderone/
+            - link [ref=e818] [cursor=pointer]:
+              - /url: https://www.youtube.com/@InsiderOneHQ
+            - link [ref=e819] [cursor=pointer]:
+              - /url: https://www.instagram.com/insideronehq/
+          - generic [ref=e820]:
+            - link "Privacy Policy" [ref=e821] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - link "Terms of Use" [ref=e822] [cursor=pointer]:
+              - /url: /terms-of-use/
+            - link "Security" [ref=e823] [cursor=pointer]:
+              - /url: /security/
+            - link "Legal" [ref=e824] [cursor=pointer]:
+              - /url: /legal/
+            - link "Manage consent" [ref=e825] [cursor=pointer]:
+              - /url: javascript:void(0);
+      - img [ref=e828]
+    - dialog "cookieconsent" [ref=e830]:
+      - generic [ref=e833]:
+        - generic [ref=e834]:
+          - text: Cookies are used on this website to personalize content and ads and to provide analytics about website usage. We also share information about your use of our website with our social media, advertising, and analytics partner. Our partners may combine this information with other data that you have provided to them or that they have collected in the course of your use of the Services. Please make your individual settings about the types of cookies that should be allowed. Please note that due to your setting, all functions of the website may no longer be available. You can also revoke your consent at any time.
+          - text: Further information on the details of the data involved, the storage period, access to your data by third parties, third country data transfers and your right of revocation can be found under
+          - button "cookie settings" [ref=e835] [cursor=pointer]
+          - text: and in our
+          - link "privacy policy." [ref=e836] [cursor=pointer]:
+            - /url: https://insiderone.com/privacy-policy/
+          - link "Legal information." [ref=e837] [cursor=pointer]:
+            - /url: https://insiderone.com/legal/
+        - generic [ref=e838]:
+          - button "Accept All" [ref=e839] [cursor=pointer]
+          - button "Only Necessary" [ref=e840] [cursor=pointer]
+          - button "Decline All" [ref=e841] [cursor=pointer]
+  - generic [ref=e842]: desktop

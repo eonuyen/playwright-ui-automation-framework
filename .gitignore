@@ -1,0 +1,32 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Java / Maven
+target/
+build/
+out/
+*.class
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+
+# Operating system
+.DS_Store
+Thumbs.db
