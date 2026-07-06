@@ -1,13 +1,16 @@
 {
-  "name": "playwright",
+  "name": "playwright-ui-automation-framework",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "description": "End-to-end UI test automation framework for the Insider One careers and Quality Assurance jobs flow.",
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report"
+  },
+  "author": "Onur Yenici",
+  "license": "MIT",
   "devDependencies": {
     "@playwright/test": "^1.61.0",
     "@types/node": "^26.0.0"
